@@ -3,7 +3,7 @@
 
 Calculation of [average distance between NHL arenas](https://github.com/CaptainErable/Fun-Projects/blob/master/Average%20NHL%20City%20Distance.py) from their [GPS coordinates](https://github.com/CaptainErable/Fun-Projects/blob/master/NHL_Arena_List.txt)
 
-Calculation of [the distance travelled by each team](https://github.com/CaptainErable/Fun-Projects/blob/master/Distance%20Travelled%20by%20NHL%20Teams.py) while taking into account their [schedule](https://github.com/CaptainErable/Fun-Projects/blob/master/NHL_Schedule_19_20.csv)
+Calculation of the [distance travelled by each team](https://github.com/CaptainErable/Fun-Projects/blob/master/Distance%20Travelled%20by%20NHL%20Teams.py) while taking into account their [schedule](https://github.com/CaptainErable/Fun-Projects/blob/master/NHL_Schedule_19_20.csv)
 
 - Next step would be to implement the different conditions to make a schedule for a team
 
